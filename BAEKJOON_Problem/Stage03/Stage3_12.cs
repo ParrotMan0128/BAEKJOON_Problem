@@ -34,7 +34,6 @@ namespace BAEKJOON_Problem.Stage03
 
             }
 
-
         }
 
     }
