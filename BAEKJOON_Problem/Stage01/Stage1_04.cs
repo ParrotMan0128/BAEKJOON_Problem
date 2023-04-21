@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BAEKJOON_Problem.Stage1
+namespace BAEKJOON_Problem.Stage01
 {
-    internal class Stage1_02
+    internal class Stage1_04
     {
         static void Main(string[] args)
         {
@@ -15,10 +15,11 @@ namespace BAEKJOON_Problem.Stage1
             int sum;
 
             inputs = Console.ReadLine().Split(' ');
-            sum = int.Parse(inputs[0]) + int.Parse(inputs[1]);
+            sum = int.Parse(inputs[0]) * int.Parse(inputs[1]);
 
             Console.WriteLine("{0}", sum);
 
         }
+
     }
 }

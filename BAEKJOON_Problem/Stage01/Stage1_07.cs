@@ -4,19 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BAEKJOON_Problem.Stage1
+namespace BAEKJOON_Problem.Stage01
 {
-    internal class Stage1_08
+    internal class Stage1_07
     {
 
         static void Main(string[] args)
         {
 
-            int year = int.Parse(Console.ReadLine());
+            string input = Console.ReadLine();
 
-            Console.WriteLine(year - 543);
+            Console.WriteLine(input + "??!");
 
         }
-
     }
 }

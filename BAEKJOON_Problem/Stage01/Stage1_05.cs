@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BAEKJOON_Problem.Stage1
+namespace BAEKJOON_Problem.Stage01
 {
-    internal class Stage1_04
+    internal class Stage1_05
     {
         static void Main(string[] args)
         {
 
             string[] inputs;
-            int sum;
+            double sum;
 
             inputs = Console.ReadLine().Split(' ');
-            sum = int.Parse(inputs[0]) * int.Parse(inputs[1]);
+            sum = double.Parse(inputs[0]) / double.Parse(inputs[1]);
 
             Console.WriteLine("{0}", sum);
 
