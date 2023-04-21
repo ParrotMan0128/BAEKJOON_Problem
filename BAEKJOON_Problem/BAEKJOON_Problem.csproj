@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>BAEKJOON_Problem.Stage02.Stage2_07</StartupObject>
+    <StartupObject>BAEKJOON_Problem.Stage03.Stage3_11</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,9 +67,21 @@
     <Compile Include="Stage02\Stage2_05.cs" />
     <Compile Include="Stage02\Stage2_06.cs" />
     <Compile Include="Stage02\Stage2_07.cs" />
+    <Compile Include="Stage03\Stage3_01.cs" />
+    <Compile Include="Stage03\Stage3_02.cs" />
+    <Compile Include="Stage03\Stage3_03.cs" />
+    <Compile Include="Stage03\Stage3_04.cs" />
+    <Compile Include="Stage03\Stage3_05.cs" />
+    <Compile Include="Stage03\Stage3_06.cs" />
+    <Compile Include="Stage03\Stage3_07.cs" />
+    <Compile Include="Stage03\Stage3_08.cs" />
+    <Compile Include="Stage03\Stage3_09.cs" />
+    <Compile Include="Stage03\Stage3_10.cs" />
+    <Compile Include="Stage03\Stage3_11.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
