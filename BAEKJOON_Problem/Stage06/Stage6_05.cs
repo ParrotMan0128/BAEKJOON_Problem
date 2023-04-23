@@ -9,7 +9,7 @@ namespace BAEKJOON_Problem.Stage06
     internal class Stage6_05
     {
 
-    
+
         static void Main(string[] args)
         {
 
@@ -25,7 +25,8 @@ namespace BAEKJOON_Problem.Stage06
 
                 Console.WriteLine(1);
 
-            } else
+            }
+            else
             {
 
                 Console.WriteLine(0);
@@ -33,6 +34,6 @@ namespace BAEKJOON_Problem.Stage06
             }
 
         }
-        
+
     }
 }
