@@ -46,7 +46,7 @@ namespace BAEKJOON_Problem.Stage04
 
             }
 
-            Console.WriteLine("{0:.000000}", sum / n);
+            Console.WriteLine("{0}", sum / n);
 
         }
 
