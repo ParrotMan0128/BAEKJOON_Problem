@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>BAEKJOON_Problem.Stage06.Stage6_06</StartupObject>
+    <StartupObject>BAEKJOON_Problem.Stage06.Stage6_04</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -107,6 +107,7 @@
     <Compile Include="Stage06\Stage6_05.cs" />
     <Compile Include="Stage06\Stage6_06.cs" />
     <Compile Include="Stage06\Stage6_07.cs" />
+    <Compile Include="Stage06\Stage6_08.cs" />
     <Compile Include="Stage06\Stage6_09.cs" />
     <Compile Include="Stage06\Stage6_10.cs" />
   </ItemGroup>

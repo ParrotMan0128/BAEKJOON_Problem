@@ -13,7 +13,7 @@ namespace BAEKJOON_Problem.Stage06
         {
 
             string[] inputs;
-            double Credit = 0;
+            double Credit;
             string GradePoint;
 
             double CreditSum = 0;

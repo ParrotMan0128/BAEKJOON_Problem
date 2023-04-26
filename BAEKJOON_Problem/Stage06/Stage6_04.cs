@@ -8,5 +8,12 @@ namespace BAEKJOON_Problem.Stage06
 {
     internal class Stage6_04
     {
+
+        static void Main(string[] args)
+        {
+
+
+        }
+
     }
 }
