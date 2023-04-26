@@ -8,3 +8,4 @@
 - Stage 4 :	1차원 배열
 - Stage 5 : 문자열
 - Stage 6 : 심화 1
+- Stage 7 : 2차원 배열
