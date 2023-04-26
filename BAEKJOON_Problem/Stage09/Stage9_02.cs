@@ -41,7 +41,7 @@ namespace BAEKJOON_Problem.Stage09
             }
 
             Console.WriteLine(factor);
-            
+
         }
 
     }
