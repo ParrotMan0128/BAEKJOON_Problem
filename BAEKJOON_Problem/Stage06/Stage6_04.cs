@@ -12,6 +12,7 @@ namespace BAEKJOON_Problem.Stage06
         static void Main(string[] args)
         {
 
+            //unsolved
 
         }
 
