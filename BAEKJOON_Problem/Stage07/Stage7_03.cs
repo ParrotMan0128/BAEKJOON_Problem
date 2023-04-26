@@ -15,7 +15,7 @@ namespace BAEKJOON_Problem.Stage07
             char[][] inputs = new char[5][];
             int MaxLength = 0;
 
-            for(int i = 0; i < 5; i++)
+            for (int i = 0; i < 5; i++)
             {
 
                 inputs[i] = Console.ReadLine().ToArray();
@@ -23,10 +23,10 @@ namespace BAEKJOON_Problem.Stage07
 
             }
 
-            for(int i = 0; i < MaxLength; i++)
+            for (int i = 0; i < MaxLength; i++)
             {
 
-                for(int j = 0; j < 5; j++)
+                for (int j = 0; j < 5; j++)
                 {
 
 
