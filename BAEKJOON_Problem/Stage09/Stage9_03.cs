@@ -24,7 +24,7 @@ namespace BAEKJOON_Problem.Stage09
 
                 sb.Append(input.ToString() + " = ");
 
-                if (input == - 1)
+                if (input == -1)
                 {
 
                     break;
@@ -51,7 +51,8 @@ namespace BAEKJOON_Problem.Stage09
 
                     Console.WriteLine(sb.ToString());
 
-                } else
+                }
+                else
                 {
 
                     Console.WriteLine("{0} is NOT perfect.", input);
