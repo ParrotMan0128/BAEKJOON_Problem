@@ -127,6 +127,7 @@
     <Compile Include="Stage13\Stage13_02.cs" />
     <Compile Include="Stage13\Stage13_03.cs" />
     <Compile Include="Stage13\Stage13_04.cs" />
+    <Compile Include="Stage13\Stage13_05.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
