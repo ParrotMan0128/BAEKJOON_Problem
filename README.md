@@ -11,5 +11,5 @@
 - Stage 7 : 2차원 배열 (Uncompleted) 3/4
 - Stage 8 : 일반 수학 1 (Uncompleted) 1/8
 - Stage 9 : 약수, 배수와 소수
-- Stage 10 : 기하: 직사각형과 삼각형 (Uncompleted) 4/8
+- Stage 10 : 기하: 직사각형과 삼각형 (Uncompleted) 7/8
 - Stage 13 : 정렬 (Uncompleted) 5/11
