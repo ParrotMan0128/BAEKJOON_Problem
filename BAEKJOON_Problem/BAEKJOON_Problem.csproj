@@ -114,6 +114,7 @@
     <Compile Include="Stage07\Stage7_02.cs" />
     <Compile Include="Stage07\Stage7_03.cs" />
     <Compile Include="Stage08\Stage8_01.cs" />
+    <Compile Include="Stage08\Stage8_03.cs" />
     <Compile Include="Stage09\Stage9_01.cs" />
     <Compile Include="Stage09\Stage9_02.cs" />
     <Compile Include="Stage09\Stage9_03.cs" />
@@ -123,6 +124,10 @@
     <Compile Include="Stage10\Stage10_01.cs" />
     <Compile Include="Stage10\Stage10_02.cs" />
     <Compile Include="Stage10\Stage10_03.cs" />
+    <Compile Include="Stage10\Stage10_04.cs" />
+    <Compile Include="Stage10\Stage10_06.cs" />
+    <Compile Include="Stage10\Stage10_07.cs" />
+    <Compile Include="Stage10\Stage10_08.cs" />
     <Compile Include="Stage13\Stage13_01.cs" />
     <Compile Include="Stage13\Stage13_02.cs" />
     <Compile Include="Stage13\Stage13_03.cs" />
