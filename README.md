@@ -12,4 +12,5 @@
 - Stage 8 : 일반 수학 1 (Uncompleted) 2/8
 - Stage 9 : 약수, 배수와 소수
 - Stage 10 : 기하: 직사각형과 삼각형 (Uncompleted) 7/8
+- Stage 11 : 시간 복잡도 (Uncompleted) 6/7
 - Stage 13 : 정렬 (Uncompleted) 5/11
